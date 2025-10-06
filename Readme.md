@@ -1,6 +1,5 @@
  Árbol Binario de Búsqueda en Java
 
-4  
 Permite **insertar**, **buscar** y **mostrar** valores en orden, utilizando una estructura de clases modular en Java.
 
 ---

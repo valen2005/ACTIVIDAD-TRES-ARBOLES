@@ -89,3 +89,4 @@ Número insertado correctamente.
 
 **Valentina Gaviria Bedoya**
 Proyecto académico para la práctica de estructuras de datos en Java.
+![alt text](image.png)
